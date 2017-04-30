@@ -4,6 +4,9 @@
 - One page daily email metric summary
 	- Number of retweets, number of follows, size of inbox (messages to respond to) etc.
 - Check for existing follow prior to follow
+- Generalize for use by other users
+	- Instructions for authorization keys
+	- Handling for retweet log?
 """
 
 import tweepy
